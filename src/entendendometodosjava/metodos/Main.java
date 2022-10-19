@@ -1,4 +1,4 @@
-package metodos;
+package entendendometodosjava.metodos;
 
 public class Main {
     

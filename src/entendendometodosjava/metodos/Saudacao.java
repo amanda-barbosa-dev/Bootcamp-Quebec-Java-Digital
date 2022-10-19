@@ -1,4 +1,4 @@
-package metodos;
+package entendendometodosjava.metodos;
 
 public class Saudacao {
     public static void verificarSaudacao (double userLocalTime) {
