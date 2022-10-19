@@ -1,4 +1,4 @@
-package entendendometodosjava.metodos.sobrecarga;
+package entendendometodosjava.sobrecarga;
 
 public class Quadrilatero {
     public static void calcularArea (double lado) {

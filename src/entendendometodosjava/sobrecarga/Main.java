@@ -1,4 +1,4 @@
-package entendendometodosjava.metodos.sobrecarga;
+package entendendometodosjava.sobrecarga;
 
 public class Main {
     public static void main(String[] args) {
