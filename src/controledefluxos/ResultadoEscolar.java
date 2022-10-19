@@ -16,9 +16,11 @@ public class ResultadoEscolar {
         }
 
          // Condicão ternária encadeada
+        /*
         System.out.println("Resultado impresso com uma condição ternária encadeada");
         String resultadoAluno = notaFinal >= 7 ? "Aprovado" : notaFinal >=5 && notaFinal < 7 ? "Recuperação" : "Reprovado";
         System.out.println(resultadoAluno);
+        */
     }
 
 }
