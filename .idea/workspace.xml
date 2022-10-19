@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Atualização dos arquivos para verificar sobrecarga e retornos dos métodos.">
-      <change afterPath="$PROJECT_DIR$/src/controledefluxos/ResultadoEscolar.java" afterDir="false" />
+    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Criação de uma classe para verificar os conceitos de condições encadeadas e condições ternárias encadeadas">
+      <change afterPath="$PROJECT_DIR$/src/controledefluxos/gradeMedidas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/sobrecargaeretornos/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/sobrecargaeretornos/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/controledefluxos/ResultadoEscolar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/controledefluxos/ResultadoEscolar.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/workspace/DIO/Potencia-Tech-by-Ifood-Java-Beginners&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ResultadoEscolar">
+  <component name="RunManager" selected="Application.gradeMedidas">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entendendometodosjava.sobrecargaeretornos.Main" />
       <module name="Bootcamp-Quebec-Java-Digital" />
@@ -63,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gradeMedidas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.gradeMedidas" />
+      <module name="Bootcamp-Quebec-Java-Digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controledefluxos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gradeMedidas" />
         <item itemvalue="Application.ResultadoEscolar" />
         <item itemvalue="Application.Main" />
       </list>
@@ -93,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666204789690</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação de uma classe para verificar os conceitos de condições encadeadas e condições ternárias encadeadas">
+      <created>1666210652751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666210652751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update dos arquivos com comentários" />
     <MESSAGE value="Atualização dos arquivos para verificar sobrecarga e retornos dos métodos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização dos arquivos para verificar sobrecarga e retornos dos métodos." />
+    <MESSAGE value="Criação de uma classe para verificar os conceitos de condições encadeadas e condições ternárias encadeadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de uma classe para verificar os conceitos de condições encadeadas e condições ternárias encadeadas" />
   </component>
 </project>
