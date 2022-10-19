@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Atualização dos arquivos para verificar sobrecarga e retornos dos métodos.">
-      <change afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/metodos/Calculadora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/metodos/Emprestimo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/metodos/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/metodos/Saudacao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/sobrecargaeretornos/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/sobrecargaeretornos/Quadrilatero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controledefluxos/ResultadoEscolar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entendendometodosjava/sobrecarga/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entendendometodosjava/sobrecargaeretornos/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entendendometodosjava/sobrecarga/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entendendometodosjava/sobrecargaeretornos/Quadrilatero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/sobrecargaeretornos/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/entendendometodosjava/sobrecargaeretornos/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/workspace/DIO/Potencia-Tech-by-Ifood-Java-Beginners&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ResultadoEscolar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entendendometodosjava.sobrecargaeretornos.Main" />
       <module name="Bootcamp-Quebec-Java-Digital" />
@@ -49,8 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.ResultadoEscolar" />
+      <module name="Bootcamp-Quebec-Java-Digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controledefluxos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ResultadoEscolar" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -71,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666203190854</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualização dos arquivos para verificar sobrecarga e retornos dos métodos.">
+      <created>1666204789690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666204789690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
