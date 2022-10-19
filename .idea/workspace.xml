@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Update" />
+    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/controlefluxos/repeticao/ContadorCarneirinhos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,14 +28,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/workspace/DIO/Potencia-Tech-by-Ifood-Java-Beginners&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/workspace/DIO/Potencia-Tech-by-Ifood-Java-Beginners"
   }
-}</component>
-  <component name="RunManager" selected="Application.PlanoOperadora">
+}]]></component>
+  <component name="RunManager" selected="Application.Carneirinhosfor">
+    <configuration name="Carneirinhos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlefluxos.repeticao.Carneirinhos" />
+      <module name="Bootcamp-Quebec-Java-Digital" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controlefluxos.repeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="entendendometodosjava.sobrecargaeretornos.Main" />
       <module name="Bootcamp-Quebec-Java-Digital" />
@@ -47,11 +64,11 @@
       </method>
     </configuration>
     <configuration name="PlanoOperadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controledefluxos.estruturascondicionais.PlanoOperadora" />
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.condicionais.PlanoOperadora" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controledefluxos.estruturascondicionais.*" />
+          <option name="PATTERN" value="controledefluxos.condicionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,11 +77,11 @@
       </method>
     </configuration>
     <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controledefluxos.estruturascondicionais.ResultadoEscolar" />
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.condicionais.ResultadoEscolar" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controledefluxos.estruturascondicionais.*" />
+          <option name="PATTERN" value="controledefluxos.condicionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="gradeMedidas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controledefluxos.estruturascondicionais.gradeMedidas" />
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.condicionais.gradeMedidas" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controledefluxos.estruturascondicionais.*" />
+          <option name="PATTERN" value="controledefluxos.condicionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Carneirinhosfor" />
         <item itemvalue="Application.PlanoOperadora" />
         <item itemvalue="Application.gradeMedidas" />
         <item itemvalue="Application.ResultadoEscolar" />
@@ -152,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666213218327</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <created>1666213546581</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666213546581</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,9 +204,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/controledefluxos/PlanoOperadora.java</url>
+          <url>file://$PROJECT_DIR$/src/controledefluxos/condicionais/PlanoOperadora.java</url>
           <line>7</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controlefluxos/repeticao/ContadorCarneirinhos.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
