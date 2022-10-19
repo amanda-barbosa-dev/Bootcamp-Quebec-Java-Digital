@@ -1,4 +1,4 @@
-package controledefluxos;
+package controledefluxos.condicionais;
 
 public class PlanoOperadora {
     public static void main(String[] args) {

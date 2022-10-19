@@ -1,4 +1,4 @@
-package controledefluxos;
+package controledefluxos.condicionais;
 public class gradeMedidas {
     public static void main(String[] args) {
 

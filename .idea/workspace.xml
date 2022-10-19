@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Criação de uma classe para verificar os conceitos de switch case aplicados em um exemplo prático" />
+    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +47,11 @@
       </method>
     </configuration>
     <configuration name="PlanoOperadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controledefluxos.PlanoOperadora" />
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.estruturascondicionais.PlanoOperadora" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controledefluxos.*" />
+          <option name="PATTERN" value="controledefluxos.estruturascondicionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,11 +60,11 @@
       </method>
     </configuration>
     <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controledefluxos.ResultadoEscolar" />
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.estruturascondicionais.ResultadoEscolar" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controledefluxos.*" />
+          <option name="PATTERN" value="controledefluxos.estruturascondicionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +73,11 @@
       </method>
     </configuration>
     <configuration name="gradeMedidas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controledefluxos.gradeMedidas" />
+      <option name="MAIN_CLASS_NAME" value="controledefluxos.estruturascondicionais.gradeMedidas" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controledefluxos.*" />
+          <option name="PATTERN" value="controledefluxos.estruturascondicionais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666212895279</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update">
+      <created>1666213218327</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666213218327</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,7 +172,8 @@
     <MESSAGE value="Criação de uma classe para verificar os conceitos de condições encadeadas e condições ternárias encadeadas" />
     <MESSAGE value="Criação de uma classe para verificar os conceitos de switch case" />
     <MESSAGE value="Criação de uma classe para verificar os conceitos de switch case aplicados em um exemplo prático" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de uma classe para verificar os conceitos de switch case aplicados em um exemplo prático" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

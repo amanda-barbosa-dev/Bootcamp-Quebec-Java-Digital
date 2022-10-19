@@ -1,4 +1,4 @@
-package controledefluxos;
+package controledefluxos.condicionais;
 
 public class ResultadoEscolar {
 
