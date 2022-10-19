@@ -1,4 +1,4 @@
-package model;
+package metodos;
 
 public class Calculadora {
     public static void somarDoisNumeros (double numero1, double numero2){

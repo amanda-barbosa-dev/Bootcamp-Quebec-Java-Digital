@@ -1,6 +1,4 @@
-import model.Calculadora;
-import model.Emprestimo;
-import model.Saudacao;
+package metodos;
 
 public class Main {
     

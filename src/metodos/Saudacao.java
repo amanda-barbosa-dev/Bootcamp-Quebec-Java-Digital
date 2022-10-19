@@ -1,4 +1,4 @@
-package model;
+package metodos;
 
 public class Saudacao {
     public static void verificarSaudacao (double userLocalTime) {
