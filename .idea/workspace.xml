@@ -39,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/workspace/DIO/Potencia-Tech-by-Ifood-Java-Beginners&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Mesada">
+  <component name="RunManager" selected="Application.TelefoneTocando">
     <configuration name="ListaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="controlefluxos.repeticao.ListaAlunos" />
       <module name="Bootcamp-Quebec-Java-Digital" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controledefluxos.condicionais.ResultadoEscolar" />
+    <configuration name="TelefoneTocando" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlefluxos.repeticao.TelefoneTocando" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controledefluxos.condicionais.*" />
+          <option name="PATTERN" value="controlefluxos.repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TelefoneTocando" />
         <item itemvalue="Application.Mesada" />
         <item itemvalue="Application.ListaAlunos" />
         <item itemvalue="Application.PlanoOperadora" />
         <item itemvalue="Application.gradeMedidas" />
-        <item itemvalue="Application.ResultadoEscolar" />
       </list>
     </recent_temporary>
   </component>
