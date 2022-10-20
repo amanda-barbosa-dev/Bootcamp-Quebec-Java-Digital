@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Update organização packages">
-      <change afterPath="$PROJECT_DIR$/src/controledefluxos/tratamentodeexcecoes/AboutMe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Criação de app para testar o tratamento de exceções com try / catch;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666266436029</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Criação de app para testar o tratamento de exceções com try / catch;">
+      <created>1666267992596</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666267992596</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +253,8 @@
     <MESSAGE value="Criação de app para verificar o uso do controle de repetição do / while" />
     <MESSAGE value="Update com comentários" />
     <MESSAGE value="Update organização packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update organização packages" />
+    <MESSAGE value="Criação de app para testar o tratamento de exceções com try / catch;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de app para testar o tratamento de exceções com try / catch;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
