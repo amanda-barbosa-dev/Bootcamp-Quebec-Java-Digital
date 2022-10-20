@@ -1,4 +1,4 @@
-package controlefluxos.repeticao;
+package controledefluxos.repeticao;
 
 import java.util.concurrent.ThreadLocalRandom;
 

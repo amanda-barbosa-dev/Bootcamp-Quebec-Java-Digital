@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Criação de app para verificar o uso do controle de repetição for em arrays">
-      <change afterPath="$PROJECT_DIR$/src/controlefluxos/repeticao/Mesada.java" afterDir="false" />
+    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Update com comentários">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlefluxos/repeticao/Carneirinhos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controledefluxos/repeticao/Carneirinhos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlefluxos/repeticao/ListaAlunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controledefluxos/repeticao/ListaAlunos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlefluxos/repeticao/Mesada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controledefluxos/repeticao/Mesada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlefluxos/repeticao/TelefoneTocando.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controledefluxos/repeticao/TelefoneTocando.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/controlefluxos/repeticao/ListaAlunos.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/controledefluxos/repeticao/ListaAlunos.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -194,7 +197,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666221770907</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Criação de app para verificar o uso do controle de repetição while">
+      <created>1666263895129</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666263895129</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Criação de app para verificar o uso do controle de repetição do / while">
+      <created>1666264122333</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666264122333</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update com comentários">
+      <created>1666264738999</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666264738999</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +241,10 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Criação de app para verificar o uso do controle de repetição for" />
     <MESSAGE value="Criação de app para verificar o uso do controle de repetição for em arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de app para verificar o uso do controle de repetição for em arrays" />
+    <MESSAGE value="Criação de app para verificar o uso do controle de repetição while" />
+    <MESSAGE value="Criação de app para verificar o uso do controle de repetição do / while" />
+    <MESSAGE value="Update com comentários" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update com comentários" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

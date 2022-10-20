@@ -1,4 +1,4 @@
-package controlefluxos.repeticao;
+package controledefluxos.repeticao;
 
 public class ListaAlunos {
 
