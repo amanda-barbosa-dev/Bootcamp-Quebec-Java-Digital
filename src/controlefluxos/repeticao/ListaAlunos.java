@@ -6,6 +6,7 @@ public class ListaAlunos {
 
         String alunos [] = {"FELIPE", "JONAS", "JULIA", "MARCOS"};
         //Forma abreviada -> uso de arrays e coleções
+        // Imprimir de 1 em 1 o nome de cada aluno da string "alunos"
         for (String aluno : alunos) {
             System.out.println("O nome do aluno é: " + aluno);
         }

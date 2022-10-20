@@ -3,8 +3,7 @@ package controlefluxos.repeticao;
 import java.util.Random;
 
     public class TelefoneTocando {
-    // ExemploDoWhile.java
-
+    // Exemplo Do While
         public static void main (String[]args){
             System.out.println("Discando...");
 
@@ -16,11 +15,12 @@ import java.util.Random;
 
             System.out.println("Alô !!!");
         }
+
+        // Verifica a condição se continua ou não tocando
         private static boolean tocando () {
-            boolean atendeu = new Random().nextInt(3) == 1;
+            boolean atendeu = new Random().nextInt(3) == 1; //Retorna true ou false aleatoriamente
             System.out.println("Atendeu? " + atendeu);
-            //negando o ato de continuar tocando
-            return !atendeu;
+            return !atendeu; //Nega o ato de continuar tocando
         }
 
     }
