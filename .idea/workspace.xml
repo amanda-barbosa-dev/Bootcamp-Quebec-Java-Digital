@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Criação de app para verificar o uso do controle de repetição for">
-      <change afterPath="$PROJECT_DIR$/src/controlefluxos/repeticao/ListaAlunos.java" afterDir="false" />
+    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Criação de app para verificar o uso do controle de repetição for em arrays">
+      <change afterPath="$PROJECT_DIR$/src/controlefluxos/repeticao/Mesada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/controlefluxos/repeticao/ContadorCarneirinhos.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/workspace/DIO/Potencia-Tech-by-Ifood-Java-Beginners"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/workspace/DIO/Potencia-Tech-by-Ifood-Java-Beginners&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ListaAlunos">
-    <configuration name="Carneirinhos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlefluxos.repeticao.Carneirinhos" />
+}</component>
+  <component name="RunManager" selected="Application.Mesada">
+    <configuration name="ListaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlefluxos.repeticao.ListaAlunos" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlefluxos.repeticao.ListaAlunos" />
+    <configuration name="Mesada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlefluxos.repeticao.Mesada" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mesada" />
         <item itemvalue="Application.ListaAlunos" />
-        <item itemvalue="Application.Carneirinhosfor" />
         <item itemvalue="Application.PlanoOperadora" />
         <item itemvalue="Application.gradeMedidas" />
         <item itemvalue="Application.ResultadoEscolar" />
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666217343718</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Criação de app para verificar o uso do controle de repetição for em arrays">
+      <created>1666221770907</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666221770907</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,7 +216,8 @@
     <MESSAGE value="Criação de uma classe para verificar os conceitos de switch case aplicados em um exemplo prático" />
     <MESSAGE value="Update" />
     <MESSAGE value="Criação de app para verificar o uso do controle de repetição for" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de app para verificar o uso do controle de repetição for" />
+    <MESSAGE value="Criação de app para verificar o uso do controle de repetição for em arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de app para verificar o uso do controle de repetição for em arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
