@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/collections/set/ExemploSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/collections/list/ExercicioPerguntasCrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/collections/list/ExercicioPerguntasCrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/collections/list/ExercicioTemperaturaMedia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bootcamp-Quebec-Java-Digital/collections/list/ExercicioTemperaturaMedia.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +42,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExercicioPerguntasCrime">
-    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.list.ExemploList" />
+  <component name="RunManager" selected="Application.ExemploSet">
+    <configuration name="ExemploOrdenacaoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.list.ExemploOrdenacaoList" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
@@ -53,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploOrdenacaoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.list.ExemploOrdenacaoList" />
+    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.set.ExemploSet" />
       <module name="Bootcamp-Quebec-Java-Digital" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.list.*" />
+          <option name="PATTERN" value="collections.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploSet" />
         <item itemvalue="Application.ExercicioPerguntasCrime" />
         <item itemvalue="Application.ExercicioTemperaturaMedia" />
         <item itemvalue="Application.ExercicioNotasLinkedList" />
         <item itemvalue="Application.ExemploOrdenacaoList" />
-        <item itemvalue="Application.ExemploList" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666663500596</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Update">
+      <created>1666811689834</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1666811689834</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
