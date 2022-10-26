@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Exercício Notas com LinkedList">
-      <change afterPath="$PROJECT_DIR$/src/collections/list/ExercicioPerguntasCrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/list/ExercicioTemperaturaMedia.java" afterDir="false" />
+    <list default="true" id="6cecb817-fb0b-4c69-ad2f-541556c9bae4" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -287,7 +285,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666654371950</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Exercícios com ArrayList">
+      <created>1666663482249</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666663482249</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update">
+      <created>1666663500596</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666663500596</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,7 +319,6 @@
     <MESSAGE value="Criação de uma classe para verificar os conceitos de condições encadeadas e condições ternárias encadeadas" />
     <MESSAGE value="Criação de uma classe para verificar os conceitos de switch case" />
     <MESSAGE value="Criação de uma classe para verificar os conceitos de switch case aplicados em um exemplo prático" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Criação de app para verificar o uso do controle de repetição for" />
     <MESSAGE value="Criação de app para verificar o uso do controle de repetição for em arrays" />
     <MESSAGE value="Criação de app para verificar o uso do controle de repetição while" />
@@ -321,7 +332,9 @@
     <MESSAGE value="Programa lista de gatos com classes e metódos que interagem com ela" />
     <MESSAGE value="Update de organização" />
     <MESSAGE value="Exercício Notas com LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício Notas com LinkedList" />
+    <MESSAGE value="Exercícios com ArrayList" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
